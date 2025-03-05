@@ -1,0 +1,21 @@
+body {
+    background-color: #F1E3D3;
+    font-family: 'Trebuchet MS', Arial, Verdana, sans-serif;
+}
+
+h1, h2, h3 {
+    color: #690B22;
+}
+
+#home-header {
+    color: rgb(206, 120, 0);
+}
+
+a {
+    color: #1B4D3E;
+    text-decoration: none;
+}
+
+p, ul li, ol li {
+    color: #b03800;
+}
